@@ -9,7 +9,13 @@ h2{
 }
 p{
     font-family: sans-serif;
+    text-align: center;
 }
 ul{
+    line-height: 40px;
+}
+li{
+    list-style-type: none;
+    text-align: center;
     line-height: 40px;
 }
